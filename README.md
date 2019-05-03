@@ -8,3 +8,7 @@ https://medium.com/@bcarunmail/securing-rest-api-using-keycloak-and-spring-oauth
 To continue reading on how to Access a Secure REST API using Spring OAuth2RestTemplate, refer below article
 
 https://medium.com/@bcarunmail/accessing-secure-rest-api-using-spring-oauth2resttemplate-ef18377e2e05
+
+Using Keycloak's library
+
+https://github.com/czetsuya/Spring-Keycloak-with-REST-API
